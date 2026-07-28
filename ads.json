@@ -2,7 +2,7 @@
   "version": 1,
   "updated_at": "2026-07-28",
   "environment": "production",
-  "ads_enabled": false,
+  "ads_enabled": true,
   "banner_enabled": true,
   "interstitial_enabled": true,
   "native_enabled": true,
