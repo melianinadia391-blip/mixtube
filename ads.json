@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-28",
+  "environment": "production",
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "native_enabled": true,
+  "app_open_enabled": true,
+  "interstitial_every_n_actions": 2,
+  "interstitial_cooldown_seconds": 30,
+  "app_open_cooldown_seconds": 120,
+  "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+  "interstitial_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
+  "native_unit_id_ios": "ca-app-pub-3940256099942544/3986624511",
+  "app_open_unit_id_ios": "ca-app-pub-3940256099942544/5575463023"
+}
