@@ -3,7 +3,7 @@
   "updated_at": "2026-07-29",
   "environment": "production",
 
-  "ads_enabled": true,
+  "ads_enabled": false,
 
   "banner_enabled": true,
   "interstitial_enabled": true,
